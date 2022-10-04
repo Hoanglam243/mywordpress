@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chưa phân loại &#8211; MIKER</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hoanglam243.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 07 Sep 2022 23:05:43 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://hoanglam243.github.io/mywordpress/wp-content/uploads/2022/09/220682412_4114320508676210_3505844757661405355_n-100x100.png</url>
+	<title>Chưa phân loại &#8211; MIKER</title>
+	<link>https://hoanglam243.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Top phim kinh di</title>
+		<link>https://hoanglam243.github.io/mywordpress/2022/09/07/top-phim-kinh-di/</link>
+					<comments>https://hoanglam243.github.io/mywordpress/2022/09/07/top-phim-kinh-di/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2022 23:05:43 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?p=9</guid>
+
+					<description><![CDATA[Blabla]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"></figure><div class="wp-block-media-text__content">
+<p>Blabla</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/2022/09/07/top-phim-kinh-di/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://hoanglam243.github.io/mywordpress/2022/09/07/chao-moi-nguoi/</link>
+					<comments>https://hoanglam243.github.io/mywordpress/2022/09/07/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2022 22:55:18 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/2022/09/07/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
