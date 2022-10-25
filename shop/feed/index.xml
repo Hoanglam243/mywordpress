@@ -12,74 +12,198 @@
 	<atom:link href="http://localhost/myproject/wordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hoanglam243.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 02:47:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Oct 2022 01:10:47 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
-	<url>https://hoanglam243.github.io/mywordpress/wp-content/uploads/2022/09/220682412_4114320508676210_3505844757661405355_n-100x100.png</url>
+	<url>https://hoanglam243.github.io/mywordpress/wp-content/uploads/2022/09/loader-50x50.png</url>
 	<title>Sản phẩm &#8211; MIKER</title>
 	<link>https://hoanglam243.github.io/mywordpress</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Organic Tomato</title>
-		<link>https://hoanglam243.github.io/mywordpress/product/organic-tomato/</link>
-					<comments>https://hoanglam243.github.io/mywordpress/product/organic-tomato/#respond</comments>
+		<title>Organic Sweet Corn</title>
+		<link>https://hoanglam243.github.io/mywordpress/product/organic-sweet-corn-4/</link>
+					<comments>https://hoanglam243.github.io/mywordpress/product/organic-sweet-corn-4/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 03:39:09 +0000</pubDate>
-				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=548</guid>
+		<pubDate>Tue, 25 Oct 2022 01:06:04 +0000</pubDate>
+				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=878</guid>
 
-					<description><![CDATA[<form class="variations_form cart wvs-loaded" style="box-sizing: border-box; margin: 0px 0px 20px; color: #6e7673; font-family: Inter, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" action="https://ninetheme.com/themes/agrikon/product/organic-tomato/" enctype="multipart/form-data" method="post" data-product_id="1824" data-product_variations="[{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;black&#34;,&#34;attribute_pa_weight&#34;:&#34;0-5kg&#34;,&#34;attribute_pa_images&#34;:&#34;red-apple&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:3,&#34;display_regular_price&#34;:4,&#34;image&#34;:{&#34;title&#34;:&#34;p3.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1835,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;4.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;3.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;NT-002345-01-12&#34;,&#34;variation_description&#34;:&#34;&#60;p&#62;18 variations do not have prices. Variations (and their attributes) that do not have prices will not be shown in your store.&#60;\/p&#62;\n&#34;,&#34;variation_id&#34;:4362,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;1&#34;,&#34;weight_html&#34;:&#34;1 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;black&#34;,&#34;attribute_pa_weight&#34;:&#34;3kg&#34;,&#34;attribute_pa_images&#34;:&#34;yellow-apple&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:1,&#34;display_regular_price&#34;:2,&#34;image&#34;:{&#34;title&#34;:&#34;p3.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1835,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;2.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;1.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;NT-002345-01-12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:4365,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;1&#34;,&#34;weight_html&#34;:&#34;1 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;green&#34;,&#34;attribute_pa_weight&#34;:&#34;2kg&#34;,&#34;attribute_pa_images&#34;:&#34;red-apple&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;22&#34;,&#34;height&#34;:&#34;22&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 22 &#38;times; 22 cm&#34;,&#34;display_price&#34;:2,&#34;display_regular_price&#34;:3,&#34;image&#34;:{&#34;title&#34;:&#34;p3.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1835,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;3.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;2.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;NT-002345-01-12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:4366,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;1&#34;,&#34;weight_html&#34;:&#34;1 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;red&#34;,&#34;attribute_pa_weight&#34;:&#34;1kg&#34;,&#34;attribute_pa_images&#34;:&#34;yellow-apple&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;33&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;33&#34;},&#34;dimensions_html&#34;:&#34;33 &#38;times; 33 &#38;times; 33 cm&#34;,&#34;display_price&#34;:3,&#34;display_regular_price&#34;:4,&#34;image&#34;:{&#34;title&#34;:&#34;p3.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1835,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;4.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;3.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;NT-002345-01-12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:4367,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;1&#34;,&#34;weight_html&#34;:&#34;1 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;yellow&#34;,&#34;attribute_pa_weight&#34;:&#34;2kg&#34;,&#34;attribute_pa_images&#34;:&#34;red-apple&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:5,&#34;display_regular_price&#34;:6,&#34;image&#34;:{&#34;title&#34;:&#34;p3.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p3-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1835,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;6.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;5.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;NT-002345-01-12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:4368,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;1&#34;,&#34;weight_html&#34;:&#34;1 kg&#34;}]">
-<div class="single_variation_wrap">
-<div class="woocommerce-variation-add-to-cart variations_button woocommerce-variation-add-to-cart-disabled">
-<div>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…</div>
-<div class="quantity"><input id="quantity_633b7d05495ef" class="input-text qty text" title="Qty" autocomplete="off" max="" min="1" name="quantity" size="4" step="1" type="number" value="1" placeholder="" />
-<div id="text-field-container">
-<div id="spin"></div>
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+<div class="woocommerce-product-details__short-description">
+<div class="woocommerce-product-details__short-description">
+
+The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
+
 </div>
-</div>
-<button class="single_add_to_cart_button button alt disabled wc-variation-selection-needed" type="submit">Add to cart</button></div>
-</div>
-</form>
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1824  wishlist-fragment on-first-load" data-fragment-ref="1824" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:&#34;1824&#34;,&#34;parent_product_id&#34;:&#34;1824&#34;,&#34;product_type&#34;:&#34;variable&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist button alt" href="https://ninetheme.com/themes/agrikon/product/organic-tomato/?add_to_wishlist=1824&#38;_wpnonce=579a7cb90c" rel="nofollow" data-product-id="1824" data-product-type="variable" data-original-product-id="1824" data-title="Add to wishlist"><i class="yith-wcwl-icon fa fa-heart-o"></i> Add to wishlist  </a><a class="compare button" href="https://ninetheme.com/themes/agrikon?action=yith-woocompare-add-product&#38;id=1824" rel="nofollow" data-product_id="1824">Compare</a></div>
-</div>
-<div class="product_meta"><span class="sku_wrapper">SKU: <span class="sku" data-o_content="NT-002345-01-12">NT-002345-01-12</span></span></div>
 <div class="product_meta"><span class="posted_in">Categories: <a href="https://ninetheme.com/themes/agrikon/product-category/organic-foods/" rel="tag">Organic Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/apples/" rel="tag">Apples</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/vegetables/" rel="tag">Vegetables</a></span></div>
-<div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/new/" rel="tag">New</a></span></div>
-<span class="brands">Brands: <a class="agrikon-brands" title="nthm" href="https://ninetheme.com/themes/agrikon/product-brands/nthm/">NTHM</a></span>]]></description>
+<div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/hot/" rel="tag">Hot</a></span></div>
+<span class="brands">Brands: <a class="agrikon-brands" title="nthm" href="https://ninetheme.com/themes/agrikon/product-brands/nthm/">NTHM</a></span>
+
+</div>
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1823 wishlist-fragment on-first-load" data-fragment-ref="1823" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:1823,&#34;parent_product_id&#34;:1823,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}"></div>
+<div class="product_meta"></div>
+</div>]]></description>
 										<content:encoded><![CDATA[<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4">
 <div class="flex-viewport">
 <figure class="woocommerce-product-gallery__wrapper">
 <div class="woocommerce-product-gallery__image flex-active-slide" data-thumb="https://ninetheme.com/themes/agrikon/wp-content/uploads/2020/12/p11-100x100.jpg" data-thumb-alt="">
-<p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish. The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc.</p>
-<p>Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish</p>
+<p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</p>
 </div>
 </figure>
 </div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/organic-tomato/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/organic-sweet-corn-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Organic Tomato</title>
+		<link>https://hoanglam243.github.io/mywordpress/product/organic-tomato-3/</link>
+					<comments>https://hoanglam243.github.io/mywordpress/product/organic-tomato-3/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 13:36:11 +0000</pubDate>
+				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=844</guid>
+
+					<description><![CDATA[The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
+<div class="product_meta"><span class="sku_wrapper">SKU: <span class="sku">NT-002345-01-12</span></span></div>
+<div class="product_meta">
+
+<span class="posted_in"><span class="posted_in">Categories: <a href="https://ninetheme.com/themes/agrikon/product-category/apples/" rel="tag">Apples</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/organic-foods/" rel="tag">Organic Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/vegetables/" rel="tag">Vegetables</a></span></span>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish. The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc.
+
+Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish
+
+</div>
+<div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/new/" rel="tag">New</a></span></div>
+<span class="brands">Brands: <a class="agrikon-brands" title="nthm" href="https://ninetheme.com/themes/agrikon/product-brands/nthm/">NTHM</a></span>]]></description>
+										<content:encoded><![CDATA[<p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish. The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc.</p>
+<p>Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/organic-tomato-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Strawberry</title>
+		<link>https://hoanglam243.github.io/mywordpress/product/strawberry-4/</link>
+					<comments>https://hoanglam243.github.io/mywordpress/product/strawberry-4/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 13:10:03 +0000</pubDate>
+				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=809</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
+
+</div>
+<div class="product_meta"><span class="posted_in">Categories: <a href="https://ninetheme.com/themes/agrikon/product-category/organic-foods/" rel="tag">Organic Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/fruits/" rel="tag">Fruits</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/vegetables/" rel="tag">Vegetables</a></span></div>
+<div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/new/" rel="tag">New</a></span></div>]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4">
+<div class="flex-viewport">
+<figure class="woocommerce-product-gallery__wrapper">
+<div class="woocommerce-product-gallery__image flex-active-slide" data-thumb="https://ninetheme.com/themes/agrikon/wp-content/uploads/2020/12/p11-100x100.jpg" data-thumb-alt="">The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</div>
+</figure>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/strawberry-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Strawberry</title>
+		<link>https://hoanglam243.github.io/mywordpress/product/strawberry-3/</link>
+					<comments>https://hoanglam243.github.io/mywordpress/product/strawberry-3/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 13:08:46 +0000</pubDate>
+				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=808</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
+
+</div>
+<div class="product_meta"><span class="posted_in">Categories: <a href="https://ninetheme.com/themes/agrikon/product-category/organic-foods/" rel="tag">Organic Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/fruits/" rel="tag">Fruits</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/vegetables/" rel="tag">Vegetables</a></span></div>
+<div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/new/" rel="tag">New</a></span></div>]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4">
+<div class="flex-viewport">
+<figure class="woocommerce-product-gallery__wrapper">
+<div class="woocommerce-product-gallery__image flex-active-slide" data-thumb="https://ninetheme.com/themes/agrikon/wp-content/uploads/2020/12/p11-100x100.jpg" data-thumb-alt="">The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</div>
+</figure>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/strawberry-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Organic Sweet Corn</title>
+		<link>https://hoanglam243.github.io/mywordpress/product/organic-sweet-corn-3/</link>
+					<comments>https://hoanglam243.github.io/mywordpress/product/organic-sweet-corn-3/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 13:07:36 +0000</pubDate>
+				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=807</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+<div class="woocommerce-product-details__short-description">
+<div class="woocommerce-product-details__short-description">
+
+The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
+
+</div>
+<div class="product_meta"><span class="posted_in">Categories: <a href="https://ninetheme.com/themes/agrikon/product-category/organic-foods/" rel="tag">Organic Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/apples/" rel="tag">Apples</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/vegetables/" rel="tag">Vegetables</a></span></div>
+<div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/hot/" rel="tag">Hot</a></span></div>
+<span class="brands">Brands: <a class="agrikon-brands" title="nthm" href="https://ninetheme.com/themes/agrikon/product-brands/nthm/">NTHM</a></span>
+
+</div>
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1823 wishlist-fragment on-first-load" data-fragment-ref="1823" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:1823,&#34;parent_product_id&#34;:1823,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}"></div>
+<div class="product_meta"></div>
+</div>]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4">
+<div class="flex-viewport">
+<figure class="woocommerce-product-gallery__wrapper">
+<div class="woocommerce-product-gallery__image flex-active-slide" data-thumb="https://ninetheme.com/themes/agrikon/wp-content/uploads/2020/12/p11-100x100.jpg" data-thumb-alt="">
+<p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</p>
+</div>
+</figure>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/organic-sweet-corn-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Fresh Red Seedless</title>
-		<link>https://hoanglam243.github.io/mywordpress/product/fresh-red-seedless-2/</link>
-					<comments>https://hoanglam243.github.io/mywordpress/product/fresh-red-seedless-2/#respond</comments>
+		<link>https://hoanglam243.github.io/mywordpress/product/fresh-red-seedless-4/</link>
+					<comments>https://hoanglam243.github.io/mywordpress/product/fresh-red-seedless-4/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 03:04:50 +0000</pubDate>
-				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=570</guid>
+		<pubDate>Mon, 24 Oct 2022 13:06:36 +0000</pubDate>
+				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=806</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 <div class="woocommerce-product-details__short-description">
@@ -95,14 +219,6 @@
 
 The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
 
-</div>
-<form class="cart" action="https://ninetheme.com/themes/agrikon/product/fresh-red-seedless/" enctype="multipart/form-data" method="post">
-<div class="quantity"><input id="quantity_633b7e5636814" class="input-text qty text" title="Qty" autocomplete="off" max="" min="1" name="quantity" size="4" step="1" type="number" value="1" placeholder="" /></div>
-<button class="single_add_to_cart_button button alt" name="add-to-cart" type="submit" value="1813">Add to cart</button>
-
-</form>
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1813 wishlist-fragment on-first-load" data-fragment-ref="1813" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:1813,&#34;parent_product_id&#34;:1813,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist button alt" href="https://ninetheme.com/themes/agrikon/product/fresh-red-seedless/?add_to_wishlist=1813&#38;_wpnonce=579a7cb90c" rel="nofollow" data-product-id="1813" data-product-type="simple" data-original-product-id="1813" data-title="Add to wishlist"><i class="yith-wcwl-icon fa fa-heart-o"></i> Add to wishlist</a> <a class="compare button" href="https://ninetheme.com/themes/agrikon?action=yith-woocompare-add-product&#38;id=1813" rel="nofollow" data-product_id="1813">Compare</a></div>
 </div>
 <div class="product_meta"><span class="posted_in">Category: <a href="https://ninetheme.com/themes/agrikon/product-category/fruits/" rel="tag">Fruits</a></span></div>
 <div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/new/" rel="tag">New</a></span></div>
@@ -127,79 +243,56 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/fresh-red-seedless-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/fresh-red-seedless-4/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Fresh Banana</title>
-		<link>https://hoanglam243.github.io/mywordpress/product/fresh-banana-2/</link>
-					<comments>https://hoanglam243.github.io/mywordpress/product/fresh-banana-2/#respond</comments>
+		<title>Organic Cucumber</title>
+		<link>https://hoanglam243.github.io/mywordpress/product/organic-cucumber-3/</link>
+					<comments>https://hoanglam243.github.io/mywordpress/product/organic-cucumber-3/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 03:01:26 +0000</pubDate>
-				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=567</guid>
+		<pubDate>Mon, 24 Oct 2022 13:04:26 +0000</pubDate>
+				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=805</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
 <div class="woocommerce-product-details__short-description">
 
 The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
 
 </div>
-<form class="cart" action="https://ninetheme.com/themes/agrikon/product/fresh-red-seedless/" enctype="multipart/form-data" method="post">
-<div class="quantity"><input id="quantity_633b7e5636814" class="input-text qty text" title="Qty" autocomplete="off" max="" min="1" name="quantity" size="4" step="1" type="number" value="1" placeholder="" /></div>
-<button class="single_add_to_cart_button button alt" name="add-to-cart" type="submit" value="1813">Add to cart</button>
-
-</form>
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1813 wishlist-fragment on-first-load" data-fragment-ref="1813" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:1813,&#34;parent_product_id&#34;:1813,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist button alt" href="https://ninetheme.com/themes/agrikon/product/fresh-red-seedless/?add_to_wishlist=1813&#38;_wpnonce=579a7cb90c" rel="nofollow" data-product-id="1813" data-product-type="simple" data-original-product-id="1813" data-title="Add to wishlist"><i class="yith-wcwl-icon fa fa-heart-o"></i> Add to wishlist  </a><a class="compare button" href="https://ninetheme.com/themes/agrikon?action=yith-woocompare-add-product&#38;id=1813" rel="nofollow" data-product_id="1813">Compare</a></div>
+<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1823 wishlist-fragment on-first-load" data-fragment-ref="1823" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:1823,&#34;parent_product_id&#34;:1823,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
+<div><span class="posted_in">Categories: <a href="https://ninetheme.com/themes/agrikon/product-category/apples/" rel="tag">Apples</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/fruits/" rel="tag">Fruits</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/vegetables/" rel="tag">Vegetables</a></span></div>
+<div><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/new/" rel="tag">New</a></span></div>
 </div>
-<div class="product_meta"><span class="posted_in">Category: <a href="https://ninetheme.com/themes/agrikon/product-category/fruits/" rel="tag">Fruits</a></span></div>
-<div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/new/" rel="tag">New</a></span></div>
-<span class="brands">Brands: <a class="agrikon-brands" title="nthm" href="https://ninetheme.com/themes/agrikon/product-brands/nthm/">NTHM</a></span>
-
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<div class="product_meta"></div>
 </div>]]></description>
 										<content:encoded><![CDATA[<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4">
 <div class="flex-viewport">
 <figure class="woocommerce-product-gallery__wrapper">
 <div class="woocommerce-product-gallery__image flex-active-slide" data-thumb="https://ninetheme.com/themes/agrikon/wp-content/uploads/2020/12/p11-100x100.jpg" data-thumb-alt="">
-<p><strong><a href="https://ninetheme.com/about/">Ninetheme</a></strong> is a action-packed success story in the web world with its minimal team, which is consist of three coders, four customer support staff and dozens of designer partners. We’ve been inspired and motivated by hundreds of good review left by our clients and thanks to the great motivation, we are constantly running the race for creating even better themes in WordPress. <strong>We’ve reached to Envato’s 10th level Elite Author award by selling 14000+ products over 8500+ customers on Envato market.</strong> The volume of half a million dollars in 6 years encouraged us to work even harder to do our best to be a larger family. We’d be pleased to see you among us. If you would like to see our customers reviews, you can use the Review tab in all of <strong><a href="https://ninetheme.com/showcase/">our themes.</a></strong></p>
+<p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</p>
 </div>
 </figure>
 </div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/fresh-banana-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/organic-cucumber-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Organic Carrot</title>
-		<link>https://hoanglam243.github.io/mywordpress/product/organic-carrot/</link>
-					<comments>https://hoanglam243.github.io/mywordpress/product/organic-carrot/#respond</comments>
+		<link>https://hoanglam243.github.io/mywordpress/product/organic-carrot-2/</link>
+					<comments>https://hoanglam243.github.io/mywordpress/product/organic-carrot-2/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 02:55:14 +0000</pubDate>
-				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=564</guid>
+		<pubDate>Mon, 24 Oct 2022 13:02:47 +0000</pubDate>
+				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=804</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 <div class="woocommerce-product-details__short-description">
@@ -213,12 +306,6 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 
 The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
 
-</div>
-<form class="cart" action="https://ninetheme.com/themes/agrikon/product/organic-carrot/" enctype="multipart/form-data" method="post">
-<div class="quantity"><input id="quantity_633b82ae19977" class="input-text qty text" title="Qty" autocomplete="off" max="" min="1" name="quantity" size="4" step="1" type="number" value="1" placeholder="" /></div>
-<button class="single_add_to_cart_button button alt" name="add-to-cart" type="submit" value="1811">Add to cart</button></form>
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1811  wishlist-fragment on-first-load" data-fragment-ref="1811" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:1811,&#34;parent_product_id&#34;:1811,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist button alt" href="https://ninetheme.com/themes/agrikon/product/organic-carrot/?add_to_wishlist=1811&#38;_wpnonce=579a7cb90c" rel="nofollow" data-product-id="1811" data-product-type="simple" data-original-product-id="1811" data-title="Add to wishlist"><i class="yith-wcwl-icon fa fa-heart-o"></i> Add to wishlist  </a><a class="compare button" href="https://ninetheme.com/themes/agrikon?action=yith-woocompare-add-product&#38;id=1811" rel="nofollow" data-product_id="1811">Compare</a></div>
 </div>
 <div class="product_meta"><span class="posted_in">Categories: <a href="https://ninetheme.com/themes/agrikon/product-category/organic-foods/" rel="tag">Organic Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/apples/" rel="tag">Apples</a></span></div>
 <div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/new/" rel="tag">New</a></span></div>
@@ -241,19 +328,19 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/organic-carrot/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/organic-carrot-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sugar Snap Peas</title>
-		<link>https://hoanglam243.github.io/mywordpress/product/sugar-snap-peas/</link>
-					<comments>https://hoanglam243.github.io/mywordpress/product/sugar-snap-peas/#respond</comments>
+		<link>https://hoanglam243.github.io/mywordpress/product/sugar-snap-peas-2/</link>
+					<comments>https://hoanglam243.github.io/mywordpress/product/sugar-snap-peas-2/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 02:47:07 +0000</pubDate>
-				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=563</guid>
+		<pubDate>Mon, 24 Oct 2022 13:01:53 +0000</pubDate>
+				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=803</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 <div class="woocommerce-product-details__short-description">
@@ -266,12 +353,6 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 
 The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
 
-</div>
-<form class="cart" action="https://ninetheme.com/themes/agrikon/product/sugar-snap-peas/" enctype="multipart/form-data" method="post">
-<div class="quantity"><input id="quantity_633b9cb3c13de" class="input-text qty text" title="Qty" autocomplete="off" max="" min="1" name="quantity" size="4" step="1" type="number" value="1" placeholder="" /></div>
-<button class="single_add_to_cart_button button alt" name="add-to-cart" type="submit" value="1812">Add to cart</button></form>
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1812  wishlist-fragment on-first-load" data-fragment-ref="1812" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:1812,&#34;parent_product_id&#34;:1812,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist button alt" href="https://ninetheme.com/themes/agrikon/product/sugar-snap-peas/?add_to_wishlist=1812&#38;_wpnonce=579a7cb90c" rel="nofollow" data-product-id="1812" data-product-type="simple" data-original-product-id="1812" data-title="Add to wishlist"><i class="yith-wcwl-icon fa fa-heart-o"></i> Add to wishlist  </a><a class="compare button" href="https://ninetheme.com/themes/agrikon?action=yith-woocompare-add-product&#38;id=1812" rel="nofollow" data-product_id="1812">Compare</a></div>
 </div>
 <div class="product_meta"><span class="posted_in">Category: <a href="https://ninetheme.com/themes/agrikon/product-category/vegetables/" rel="tag">Vegetables</a></span></div>
 <div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/new/" rel="tag">New</a></span></div>
@@ -293,19 +374,19 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/sugar-snap-peas/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/sugar-snap-peas-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Red Apple</title>
-		<link>https://hoanglam243.github.io/mywordpress/product/red-apple/</link>
-					<comments>https://hoanglam243.github.io/mywordpress/product/red-apple/#respond</comments>
+		<link>https://hoanglam243.github.io/mywordpress/product/red-apple-2/</link>
+					<comments>https://hoanglam243.github.io/mywordpress/product/red-apple-2/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 02:37:36 +0000</pubDate>
-				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=562</guid>
+		<pubDate>Mon, 24 Oct 2022 13:00:32 +0000</pubDate>
+				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=802</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 <div class="woocommerce-product-details__short-description">
@@ -317,12 +398,6 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 
 The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
 
-</div>
-<form class="cart" action="https://ninetheme.com/themes/agrikon/product/red-apple/" enctype="multipart/form-data" method="post">
-<div class="quantity"><input id="quantity_633b7df846666" class="input-text qty text" title="Qty" autocomplete="off" max="" min="1" name="quantity" size="4" step="1" type="number" value="1" placeholder="" /></div>
-<button class="single_add_to_cart_button button alt" name="add-to-cart" type="submit" value="1816">Add to cart</button></form>
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1816  wishlist-fragment on-first-load" data-fragment-ref="1816" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:1816,&#34;parent_product_id&#34;:1816,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist button alt" href="https://ninetheme.com/themes/agrikon/product/red-apple/?add_to_wishlist=1816&#38;_wpnonce=579a7cb90c" rel="nofollow" data-product-id="1816" data-product-type="simple" data-original-product-id="1816" data-title="Add to wishlist"><i class="yith-wcwl-icon fa fa-heart-o"></i> Add to wishlist  </a><a class="compare button" href="https://ninetheme.com/themes/agrikon?action=yith-woocompare-add-product&#38;id=1816" rel="nofollow" data-product_id="1816">Compare</a></div>
 </div>
 <div class="product_meta"><span class="posted_in">Categories: <a href="https://ninetheme.com/themes/agrikon/product-category/organic-foods/" rel="tag">Organic Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/apples/" rel="tag">Apples</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/fruits/" rel="tag">Fruits</a></span></div>
 <div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/new/" rel="tag">New</a></span></div>
@@ -343,212 +418,7 @@ The generated Lorem Ipsum is therefore always free from repetition injected humo
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/red-apple/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Green Bell Pepper</title>
-		<link>https://hoanglam243.github.io/mywordpress/product/green-bell-pepper/</link>
-					<comments>https://hoanglam243.github.io/mywordpress/product/green-bell-pepper/#respond</comments>
-		
-		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 02:33:14 +0000</pubDate>
-				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=561</guid>
-
-					<description><![CDATA[<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-
-The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
-
-</div>
-<form class="cart" action="https://ninetheme.com/themes/agrikon/product/green-bell-pepper/" enctype="multipart/form-data" method="post">
-<div class="quantity"><input id="quantity_633b7d631d40b" class="input-text qty text" title="Qty" autocomplete="off" max="" min="1" name="quantity" size="4" step="1" type="number" value="1" placeholder="" /></div>
-<button class="single_add_to_cart_button button alt" name="add-to-cart" type="submit" value="1817">Add to cart</button></form>
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1817  wishlist-fragment on-first-load" data-fragment-ref="1817" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:1817,&#34;parent_product_id&#34;:1817,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist button alt" href="https://ninetheme.com/themes/agrikon/product/green-bell-pepper/?add_to_wishlist=1817&#38;_wpnonce=579a7cb90c" rel="nofollow" data-product-id="1817" data-product-type="simple" data-original-product-id="1817" data-title="Add to wishlist"><i class="yith-wcwl-icon fa fa-heart-o"></i> Add to wishlist  </a><a class="compare button" href="https://ninetheme.com/themes/agrikon?action=yith-woocompare-add-product&#38;id=1817" rel="nofollow" data-product_id="1817">Compare</a></div>
-</div>
-<div class="product_meta"><span class="posted_in">Categories: <a href="https://ninetheme.com/themes/agrikon/product-category/organic-foods/" rel="tag">Organic Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/apples/" rel="tag">Apples</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/fruits/" rel="tag">Fruits</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/vegetables/" rel="tag">Vegetables</a></span></div>
-<div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/new/" rel="tag">New</a></span></div>
-</div>
-</div>
-</div>
-</div>
-</div>]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4">
-<div class="flex-viewport">
-<figure class="woocommerce-product-gallery__wrapper">
-<div class="woocommerce-product-gallery__image flex-active-slide" data-thumb="https://ninetheme.com/themes/agrikon/wp-content/uploads/2020/12/p11-100x100.jpg" data-thumb-alt="">
-<p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</p>
-</div>
-</figure>
-</div>
-</div>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/green-bell-pepper/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Green Cabbage</title>
-		<link>https://hoanglam243.github.io/mywordpress/product/green-cabbage/</link>
-					<comments>https://hoanglam243.github.io/mywordpress/product/green-cabbage/#respond</comments>
-		
-		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 02:29:02 +0000</pubDate>
-				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=560</guid>
-
-					<description><![CDATA[<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-
-The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
-
-<form class="variations_form cart wvs-loaded" style="box-sizing: border-box; margin: 0px 0px 20px; color: #6e7673; font-family: Inter, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" action="https://ninetheme.com/themes/agrikon/product/green-cabbage/" enctype="multipart/form-data" method="post" data-product_id="1818" data-product_variations="[{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;&#34;,&#34;attribute_pa_weight&#34;:&#34;&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:4,&#34;display_regular_price&#34;:5,&#34;image&#34;:{&#34;title&#34;:&#34;p5.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1826,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;5.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;4.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;we12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:3970,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;2&#34;,&#34;weight_html&#34;:&#34;2 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;&#34;,&#34;attribute_pa_weight&#34;:&#34;&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:3,&#34;display_regular_price&#34;:4,&#34;image&#34;:{&#34;title&#34;:&#34;p5.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1826,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;4.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;3.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;we12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:3972,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;2&#34;,&#34;weight_html&#34;:&#34;2 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;&#34;,&#34;attribute_pa_weight&#34;:&#34;&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:1,&#34;display_regular_price&#34;:2,&#34;image&#34;:{&#34;title&#34;:&#34;p5.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1826,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;2.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;1.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;we12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:3974,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;2&#34;,&#34;weight_html&#34;:&#34;2 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;&#34;,&#34;attribute_pa_weight&#34;:&#34;&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:5,&#34;display_regular_price&#34;:6,&#34;image&#34;:{&#34;title&#34;:&#34;p5.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1826,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;6.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;5.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;we12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:3976,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;2&#34;,&#34;weight_html&#34;:&#34;2 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;&#34;,&#34;attribute_pa_weight&#34;:&#34;&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:6,&#34;display_regular_price&#34;:8,&#34;image&#34;:{&#34;title&#34;:&#34;p5.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1826,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;8.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;6.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;we12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:3977,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;2&#34;,&#34;weight_html&#34;:&#34;2 kg&#34;}]">
-<div class="single_variation_wrap">
-<div class="woocommerce-variation-add-to-cart variations_button woocommerce-variation-add-to-cart-disabled">
-<div class="quantity"><input id="quantity_633b7e470edad" class="input-text qty text" title="Qty" autocomplete="off" max="" min="1" name="quantity" size="4" step="1" type="number" value="1" placeholder="" />
-<div id="text-field-container">
-<div id="spin"></div>
-</div>
-</div>
-<button class="single_add_to_cart_button button alt disabled wc-variation-selection-needed" type="submit">Add to cart</button></div>
-</div>
-</form>
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1818  wishlist-fragment on-first-load" data-fragment-ref="1818" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:&#34;1818&#34;,&#34;parent_product_id&#34;:&#34;1818&#34;,&#34;product_type&#34;:&#34;variable&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist button alt" href="https://ninetheme.com/themes/agrikon/product/green-cabbage/?add_to_wishlist=1818&#38;_wpnonce=579a7cb90c" rel="nofollow" data-product-id="1818" data-product-type="variable" data-original-product-id="1818" data-title="Add to wishlist"><i class="yith-wcwl-icon fa fa-heart-o"></i> Add to wishlist </a> <a class="compare button" href="https://ninetheme.com/themes/agrikon?action=yith-woocompare-add-product&#38;id=1818" rel="nofollow" data-product_id="1818">Compare</a></div>
-</div>
-<div class="product_meta"><span class="sku_wrapper">SKU: <span class="sku">We12</span></span></div>
-<div class="product_meta"><span class="posted_in">Categories: <a href="https://ninetheme.com/themes/agrikon/product-category/organic-foods/" rel="tag">Organic Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/package-foods/" rel="tag">Package Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/vegetables/" rel="tag">Vegetables</a></span></div>
-<div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/new/" rel="tag">New</a></span></div>
-<span class="brands">Brands: <a class="agrikon-brands" title="nthm" href="https://ninetheme.com/themes/agrikon/product-brands/nthm/">NTHM</a></span>
-
-<form class="variations_form cart wvs-loaded" style="box-sizing: border-box; margin: 0px 0px 20px; color: #6e7673; font-family: Inter, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" action="https://ninetheme.com/themes/agrikon/product/green-cabbage/" enctype="multipart/form-data" method="post" data-product_id="1818" data-product_variations="[{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;&#34;,&#34;attribute_pa_weight&#34;:&#34;&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:4,&#34;display_regular_price&#34;:5,&#34;image&#34;:{&#34;title&#34;:&#34;p5.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1826,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;5.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;4.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;we12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:3970,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;2&#34;,&#34;weight_html&#34;:&#34;2 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;&#34;,&#34;attribute_pa_weight&#34;:&#34;&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:3,&#34;display_regular_price&#34;:4,&#34;image&#34;:{&#34;title&#34;:&#34;p5.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1826,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;4.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;3.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;we12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:3972,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;2&#34;,&#34;weight_html&#34;:&#34;2 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;&#34;,&#34;attribute_pa_weight&#34;:&#34;&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:1,&#34;display_regular_price&#34;:2,&#34;image&#34;:{&#34;title&#34;:&#34;p5.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1826,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;2.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;1.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;we12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:3974,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;2&#34;,&#34;weight_html&#34;:&#34;2 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;&#34;,&#34;attribute_pa_weight&#34;:&#34;&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:5,&#34;display_regular_price&#34;:6,&#34;image&#34;:{&#34;title&#34;:&#34;p5.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1826,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;6.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;5.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;we12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:3976,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;2&#34;,&#34;weight_html&#34;:&#34;2 kg&#34;},{&#34;attributes&#34;:{&#34;attribute_pa_colors&#34;:&#34;&#34;,&#34;attribute_pa_weight&#34;:&#34;&#34;},&#34;availability_html&#34;:&#34;&#34;,&#34;backorders_allowed&#34;:false,&#34;dimensions&#34;:{&#34;length&#34;:&#34;22&#34;,&#34;width&#34;:&#34;33&#34;,&#34;height&#34;:&#34;44&#34;},&#34;dimensions_html&#34;:&#34;22 &#38;times; 33 &#38;times; 44 cm&#34;,&#34;display_price&#34;:6,&#34;display_regular_price&#34;:8,&#34;image&#34;:{&#34;title&#34;:&#34;p5.jpg&#34;,&#34;caption&#34;:&#34;&#34;,&#34;url&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;alt&#34;:&#34;&#34;,&#34;src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;srcset&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg 800w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg 450w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg 100w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-750x750.jpg 750w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-300x300.jpg 300w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-150x150.jpg 150w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-768x768.jpg 768w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-30x30.jpg 30w, https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-500x500.jpg 500w&#34;,&#34;sizes&#34;:&#34;(max-width: 800px) 100vw, 800px&#34;,&#34;full_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5.jpg&#34;,&#34;full_src_w&#34;:800,&#34;full_src_h&#34;:800,&#34;gallery_thumbnail_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-100x100.jpg&#34;,&#34;gallery_thumbnail_src_w&#34;:100,&#34;gallery_thumbnail_src_h&#34;:100,&#34;thumb_src&#34;:&#34;https:\/\/ninetheme.com\/themes\/agrikon\/wp-content\/uploads\/2020\/12\/p5-450x450.jpg&#34;,&#34;thumb_src_w&#34;:450,&#34;thumb_src_h&#34;:450,&#34;src_w&#34;:800,&#34;src_h&#34;:800},&#34;image_id&#34;:1826,&#34;is_downloadable&#34;:false,&#34;is_in_stock&#34;:true,&#34;is_purchasable&#34;:true,&#34;is_sold_individually&#34;:&#34;no&#34;,&#34;is_virtual&#34;:false,&#34;max_qty&#34;:&#34;&#34;,&#34;min_qty&#34;:1,&#34;price_html&#34;:&#34;&#60;span class=\&#34;price\&#34;&#62;&#60;del aria-hidden=\&#34;true\&#34;&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;8.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/del&#62; &#60;ins&#62;&#60;span class=\&#34;woocommerce-Price-amount amount\&#34;&#62;&#60;bdi&#62;&#60;span class=\&#34;woocommerce-Price-currencySymbol\&#34;&#62;&#38;#36;&#60;\/span&#62;6.00&#60;\/bdi&#62;&#60;\/span&#62;&#60;\/ins&#62;&#60;\/span&#62;&#34;,&#34;sku&#34;:&#34;we12&#34;,&#34;variation_description&#34;:&#34;&#34;,&#34;variation_id&#34;:3977,&#34;variation_is_active&#34;:true,&#34;variation_is_visible&#34;:true,&#34;weight&#34;:&#34;2&#34;,&#34;weight_html&#34;:&#34;2 kg&#34;}]">
-<div class="single_variation_wrap">
-<div class="woocommerce-variation-add-to-cart variations_button woocommerce-variation-add-to-cart-disabled"></div>
-</div>
-</form></div>
-</div>
-</div>
-</div>
-</div>]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4">
-<div class="flex-viewport">
-<figure class="woocommerce-product-gallery__wrapper">
-<div class="woocommerce-product-gallery__image flex-active-slide" data-thumb="https://ninetheme.com/themes/agrikon/wp-content/uploads/2020/12/p11-100x100.jpg" data-thumb-alt="">
-<p>During the fermentation in conical stainless steel tanks, extreme attention was given to an extraction aimed at fresh and fragrant aromas, full colors, and supple, elegant textures and tannins. Once the wine had been run off its skins at the end of the fermentation, it was put through a full malolactic fermentation in oak barrels to fully bring out the finesse and expressiveness of the aromas. The aging process, which lasted approximately 12-14 months, then began and took place in 60 gallon French and Hungarian oak barrels, partly new and partly used once previously.</p>
-</div>
-</figure>
-</div>
-</div>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/green-cabbage/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Fresh Banana</title>
-		<link>https://hoanglam243.github.io/mywordpress/product/fresh-banana/</link>
-					<comments>https://hoanglam243.github.io/mywordpress/product/fresh-banana/#respond</comments>
-		
-		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 02:24:27 +0000</pubDate>
-				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=559</guid>
-
-					<description><![CDATA[<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-
-The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
-
-</div>
-<form class="cart" action="https://ninetheme.com/themes/agrikon/product/fresh-banana-2/" enctype="multipart/form-data" method="post">
-<div class="quantity"><input id="quantity_633b7e4f6ab38" class="input-text qty text" title="Qty" autocomplete="off" max="" min="1" name="quantity" size="4" step="1" type="number" value="1" placeholder="" /></div>
-<button class="single_add_to_cart_button button alt" name="add-to-cart" type="submit" value="1821">Add to cart</button>
-
-</form>
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1821 wishlist-fragment on-first-load" data-fragment-ref="1821" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:1821,&#34;parent_product_id&#34;:1821,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist button alt" href="https://ninetheme.com/themes/agrikon/product/fresh-banana-2/?add_to_wishlist=1821&#38;_wpnonce=579a7cb90c" rel="nofollow" data-product-id="1821" data-product-type="simple" data-original-product-id="1821" data-title="Add to wishlist"><i class="yith-wcwl-icon fa fa-heart-o"></i> Add to wishlist  </a><a class="compare button" href="https://ninetheme.com/themes/agrikon?action=yith-woocompare-add-product&#38;id=1821" rel="nofollow" data-product_id="1821">Compare</a></div>
-</div>
-<div class="product_meta"><span class="posted_in">Categories: <a href="https://ninetheme.com/themes/agrikon/product-category/fruits/" rel="tag">Fruits</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/package-foods/" rel="tag">Package Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/vegetables/" rel="tag">Vegetables</a></span></div>
-<div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/hot/" rel="tag">Hot</a></span></div>
-<span class="brands">Brands: <a class="agrikon-brands" title="nthm" href="https://ninetheme.com/themes/agrikon/product-brands/nthm/">NTHM</a></span>
-
-</div>
-</div>
-</div>
-</div>]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4">
-<div class="flex-viewport">
-<figure class="woocommerce-product-gallery__wrapper">
-<div class="woocommerce-product-gallery__image flex-active-slide" data-thumb="https://ninetheme.com/themes/agrikon/wp-content/uploads/2020/12/p11-100x100.jpg" data-thumb-alt="">
-<p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</p>
-</div>
-</figure>
-</div>
-</div>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/fresh-banana/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Fresh Red Seedless</title>
-		<link>https://hoanglam243.github.io/mywordpress/product/fresh-red-seedless/</link>
-					<comments>https://hoanglam243.github.io/mywordpress/product/fresh-red-seedless/#respond</comments>
-		
-		<dc:creator><![CDATA[NguyenTranHoangLam]]></dc:creator>
-		<pubDate>Tue, 04 Oct 2022 02:20:13 +0000</pubDate>
-				<guid isPermaLink="false">https://hoanglam243.github.io/mywordpress/?post_type=product&#038;p=556</guid>
-
-					<description><![CDATA[<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-<div class="woocommerce-product-details__short-description">
-
-The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder…
-
-</div>
-<form class="cart" action="https://ninetheme.com/themes/agrikon/product/fresh-red-seedless-2/" enctype="multipart/form-data" method="post">
-<div class="quantity"><input id="quantity_633b7d613e13f" class="input-text qty text" title="Qty" autocomplete="off" max="" min="1" name="quantity" size="4" step="1" type="number" value="1" placeholder="" /></div>
-<button class="single_add_to_cart_button button alt" name="add-to-cart" type="submit" value="1820">Add to cart</button></form>
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-1820  wishlist-fragment on-first-load" data-fragment-ref="1820" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:1820,&#34;parent_product_id&#34;:1820,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;after_add_to_cart&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist button alt" href="https://ninetheme.com/themes/agrikon/product/fresh-red-seedless-2/?add_to_wishlist=1820&#38;_wpnonce=579a7cb90c" rel="nofollow" data-product-id="1820" data-product-type="simple" data-original-product-id="1820" data-title="Add to wishlist"><i class="yith-wcwl-icon fa fa-heart-o"></i> Add to wishlist</a> <a class="compare button" href="https://ninetheme.com/themes/agrikon?action=yith-woocompare-add-product&#38;id=1820" rel="nofollow" data-product_id="1820">Compare</a></div>
-</div>
-<div class="product_meta"><span class="posted_in">Categories: <a href="https://ninetheme.com/themes/agrikon/product-category/organic-foods/" rel="tag">Organic Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/fruits/" rel="tag">Fruits</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/package-foods/" rel="tag">Package Foods</a>, <a href="https://ninetheme.com/themes/agrikon/product-category/vegetables/" rel="tag">Vegetables</a></span></div>
-<div class="product_meta"><span class="tagged_as">Tag: <a href="https://ninetheme.com/themes/agrikon/product-tag/hot/" rel="tag">Hot</a></span></div>
-<span class="brands">Brands: <a class="agrikon-brands" title="nthm" href="https://ninetheme.com/themes/agrikon/product-brands/nthm/">NTHM</a></span>
-
-</div>
-</div>
-</div>]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4">
-<div class="flex-viewport">
-<figure class="woocommerce-product-gallery__wrapper">
-<div class="woocommerce-product-gallery__image flex-active-slide" data-thumb="https://ninetheme.com/themes/agrikon/wp-content/uploads/2020/12/p11-100x100.jpg" data-thumb-alt="">
-<p>The generated Lorem Ipsum is therefore always free from repetition injected humour, or non-characteristic words etc. Susp endisse ultricies nisi vel quam suscipit. Sabertooth peacock flounder; chain pickerel hatchetfish, pencilfish snailfish filefish Antarctic icefish goldeye aholehole trumpetfish pilot fish airbreathing catfish, electric ray sweeper.</p>
-</div>
-</figure>
-</div>
-</div>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/fresh-red-seedless/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hoanglam243.github.io/mywordpress/product/red-apple-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

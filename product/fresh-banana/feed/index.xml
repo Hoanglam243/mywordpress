@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/product/fresh-banana/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hoanglam243.github.io/mywordpress/product/fresh-banana/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 02:47:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Oct 2022 01:55:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
